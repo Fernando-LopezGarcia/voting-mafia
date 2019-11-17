@@ -1,0 +1,6 @@
+All the pip commands needed for the project are here.
+Use them if requirements.txt fails to install everything.
+Python version used: Python 3.7.5
+
+pip install django
+pip install -U channels 
