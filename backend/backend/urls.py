@@ -1,3 +1,7 @@
+#####################################################################
+# SPICY MODIFIED FILE
+#####################################################################
+
 """backend URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -16,6 +20,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from django.urls import re_path
+from . import views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # This regular expression should catch all paths to allow react routing
+    re_path(r'^', views.HomeView.as_view()),
 ]
+
+# This is another alternative to the regex catch all, not fully tested.
+#path('', views.HomeView.as_view()),
+#path('<path:frontend_route>', views.HomeView.as_view()),
