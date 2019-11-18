@@ -1,3 +1,8 @@
+#####################################################################
+# This file is needed for deployment.
+# But it will be replaced by asgi.py to allow the use of channels.
+#####################################################################
+
 """
 WSGI config for backend project.
 
