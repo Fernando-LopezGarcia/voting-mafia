@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe75d818.chunk.css",
-    "main.js": "/static/js/main.4d265db8.chunk.js",
-    "main.js.map": "/static/js/main.4d265db8.chunk.js.map",
+    "main.css": "/static/css/main.6ea8044f.chunk.css",
+    "main.js": "/static/js/main.f55ddaee.chunk.js",
+    "main.js.map": "/static/js/main.f55ddaee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.baeb1881.js",
     "runtime-main.js.map": "/static/js/runtime-main.baeb1881.js.map",
-    "static/js/2.5ebadfd5.chunk.js": "/static/js/2.5ebadfd5.chunk.js",
-    "static/js/2.5ebadfd5.chunk.js.map": "/static/js/2.5ebadfd5.chunk.js.map",
+    "static/js/2.accba4fe.chunk.js": "/static/js/2.accba4fe.chunk.js",
+    "static/js/2.accba4fe.chunk.js.map": "/static/js/2.accba4fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c335e9e2636addf8b9310b75d1fc6e2.js": "/precache-manifest.8c335e9e2636addf8b9310b75d1fc6e2.js",
+    "precache-manifest.273bbe36595dc5721161562e35fc6249.js": "/precache-manifest.273bbe36595dc5721161562e35fc6249.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fe75d818.chunk.css.map": "/static/css/main.fe75d818.chunk.css.map"
+    "static/css/main.6ea8044f.chunk.css.map": "/static/css/main.6ea8044f.chunk.css.map",
+    "static/media/MafiaHomeLogo.png": "/static/media/MafiaHomeLogo.a16e6f82.png"
   },
   "entrypoints": [
     "static/js/runtime-main.baeb1881.js",
-    "static/js/2.5ebadfd5.chunk.js",
-    "static/css/main.fe75d818.chunk.css",
-    "static/js/main.4d265db8.chunk.js"
+    "static/js/2.accba4fe.chunk.js",
+    "static/css/main.6ea8044f.chunk.css",
+    "static/js/main.f55ddaee.chunk.js"
   ]
 }
